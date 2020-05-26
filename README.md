@@ -4,6 +4,9 @@ This is a tutorial for learning .NET Unit Testing and is part of a blog series a
 
 Learning to write unit tests can make you a much better developer. Instead of building the UI, then the data access layer, then the SQL database, you can work backwards. Build the stored procedure, then the data access layer, and finally the UI last.
 
+** THIS IS UNDER CONSTRUCTION **
+Blog post not ready, many of the projects below are not ready either.. video coming afterwards.
+
 ## What you need to know first.
 Before venturing into unit testing it's best to make sure that you understand Dependency Injection (DI) and the Repository Pattern.
 
@@ -18,11 +21,11 @@ I'll be using Azure DevOps for my samples since this is becoming more popular. A
 ## Best Practices
 The biggest thing with unit testing is being able to write decoupled code that is capable of being unit tested.
 
-## Unit Testing Frameworks
-There are many unit testing frameworks available on the market and as I learn new ones I will add them here. These are the mones that I am most familiar with and are still relevant today.
-
 ### Code Coverage
 100% code coverage is not a thing. It's not even remotely practical to have 100% code coverage. So, what is good code coverage? Anything above 0% is a start and is good. Ideally 70-80% code coverage should cover your application while leaving out the parts that don't need to be unit tested. It is not important to test the dependency resolver, constructors, getters, setters, or catches in your try catch calls. What is important is that you test your internal code that handles the primary functionality.
+
+## Unit Testing Frameworks
+There are many unit testing frameworks available on the market and as I learn new ones I will add them here. These are the mones that I am most familiar with and are still relevant today.
 
 ### MSTest
 

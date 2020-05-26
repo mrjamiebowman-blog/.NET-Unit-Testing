@@ -1,6 +1,6 @@
-# .NET Unit Testing Tutorial
-.NET Unit Testing Tutorial
-This is a tutorial for learning .NET Unit Testing and is part of a blog series and video series. I will cover unit testing frameworks such as, MSTest, nSpec, NUnit, xUnit, and Selenium. The more advanced techniques that will be covered will demonstrate how to use reflection to test private methods, mocking frameworks like Moq, Stubs & Fakes with MSTest, and more.
+# .NET (C Sharp) Unit Testing Tutorial
+.NET (C Sharp) Unit Testing Tutorial
+This is a tutorial for learning .NET C# Unit Testing and is part of a blog series and video series. I will cover unit testing frameworks such as, MSTest, nSpec, NUnit, xUnit, and Selenium. The more advanced techniques that will be covered will demonstrate how to use reflection to test private methods, mocking frameworks like Moq, Stubs & Fakes with MSTest, and more.
 
 Learning to write unit tests can make you a much better developer. Instead of building the UI, then the data access layer, then the SQL database, you can work backwards. Build the stored procedure, then the data access layer, and finally the UI last.
 

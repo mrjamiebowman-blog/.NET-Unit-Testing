@@ -4,7 +4,7 @@ This is a tutorial for learning .NET Unit Testing and is part of a blog series a
 
 Learning to write unit tests can make you a much better developer. Instead of building the UI, then the data access layer, then the SQL database, you can work backwards. Build the stored procedure, then the data access layer, and finally the UI last.
 
-** THIS IS UNDER CONSTRUCTION **
+**THIS IS UNDER CONSTRUCTION**
 Blog post not ready, many of the projects below are not ready either.. video coming afterwards.
 
 ## What you need to know first.
